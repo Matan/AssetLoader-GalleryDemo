@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery base="http://www.matanuberstein.co.za/assets/demo/">
+
+	<preload id="PRELOAD" connections="1" preventCache="true" >
+		<style id="DEFAULT_CSS" src="styles/default.css" />
+
+		<thumbs id="THUMBS" connections="3" preventCache="true" >
+			<image id="1" src="images/thumbs/IMG_0178.jpg" weight="11.9kb" />
+			<image id="2" src="images/thumbs/IMG_0179.jpg" weight="9.6kb" />
+			<image id="3" src="images/thumbs/IMG_0263.jpg" weight="5.1kb" />
+			<image id="4" src="images/thumbs/IMG_0307.jpg" weight="9.2kb" />
+			<image id="5" src="images/thumbs/IMG_1152.jpg" weight="9.5kb" />
+			<image id="6" src="images/thumbs/IMG_1168.jpg" weight="12.2kb" />
+			<image id="7" src="images/thumbs/IMG_1170.jpg" weight="7kb" />
+			<image id="8" src="images/thumbs/IMG_1172.jpg" weight="8.1kb" />
+		</thumbs>
+	</preload>
+	
+	<high id="HIGH" connections="1" preventCache="true" >
+		<image id="1" src="images/high/IMG_0178.jpg" />
+		<image id="2" src="images/high/IMG_0179.jpg" />
+		<image id="3" src="images/high/IMG_0263.jpg" />
+		<image id="4" src="images/high/IMG_0307.jpg" />
+		<image id="5" src="images/high/IMG_1152.jpg" />
+		<image id="6" src="images/high/IMG_1168.jpg" />
+		<image id="7" src="images/high/IMG_1170.jpg" />
+		<image id="8" src="images/high/IMG_1172.jpg" />
+	</high>
+
+</gallery>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library name="fonts" output="lib" format="1">
+	<font id="Arial" family="Arial" style="0" cs="1,2,3,4" type="1" path="C:\Storage\Work\AssetLoader-OnlineDemo\fonts\arial.ttf" ascff="false"/>
+	<font id="Arial" family="Arial" style="1" cs="1,2,3,4" type="1" path="C:\Storage\Work\AssetLoader-OnlineDemo\fonts\arialbd.ttf" ascff="false"/>
+	<font id="Arial" family="Arial" style="2" cs="1,2,3,4" type="1" path="C:\Storage\Work\AssetLoader-OnlineDemo\fonts\ariali.ttf" ascff="false"/>
+	<font id="Arial" family="Arial" style="3" cs="1,2,3,4" type="1" path="C:\Storage\Work\AssetLoader-OnlineDemo\fonts\arialbi.ttf" ascff="false"/>
+</library>
